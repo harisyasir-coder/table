@@ -1,2 +1,2 @@
 # table
-This is a C++ program for print table
+This is a  program for print table
